@@ -1,0 +1,16 @@
+{
+  "name": "task-2-glory-chocolate",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-terser": "^2.1.0",
+    "del": "^7.0.0"
+  }
+}
